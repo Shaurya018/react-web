@@ -28,7 +28,7 @@
   }
   .contact_us_big_text{
     color: white;
-    font-size: 100px;
+    font-size: 80px;
     padding: 0px 5px 0px 5px;
     text-transform: uppercase;
     font-family: 'Fjalla One', sans-serif;
@@ -46,12 +46,12 @@
     font-family: 'Titillium Web', sans-serif;
   }
   
-  .mail:before {font-family: FontAwesome;content: "\f015";}
+  .mail:before {font-family: FontAwesome;}
   .phone_number:before {font-family: FontAwesome;
-    font-size:25px;
-    content: "\f0e0";}
-  .adress:before {font-family: FontAwesome;font-size: 25px;
-    content: "\f095";}
+    font: size 55px;
+}
+  .adress:before {font-family: FontAwesome;font-size: 35px;
+    ;}
   
   
   .contact_us_right{
@@ -141,4 +141,10 @@
 } 
 .A{
     font-size: 200px;
+}
+.data{
+  font-size: 25px;
+}
+.heading{
+  font-size: 35px;
 }

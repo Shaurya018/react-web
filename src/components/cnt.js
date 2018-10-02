@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import './cnt.css';
 class Con extends Component {
-    state = {  }
+    
     render() { 
         return ( <div>
             <footer class="flex-rw">
