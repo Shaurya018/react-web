@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-
+import Fade from 'react-reveal/Fade';
 import './contact.css';
 
 
@@ -10,6 +10,7 @@ class Contact extends Component {
     render() { 
         return ( 
         <div>
+            <Fade bottom>
             <div class="contact_us">
     <div class="contact_us_fon">
     
@@ -43,6 +44,7 @@ class Contact extends Component {
     </div>
     
   </div>
+  </Fade>
   
       </div>
   
