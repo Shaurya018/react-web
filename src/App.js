@@ -5,6 +5,7 @@ import Cells from './components/cells.js';
 
 
 
+
 class App extends Component {
   
 
@@ -17,7 +18,7 @@ class App extends Component {
      </div>
      
       
-      
+    
       
 
    </div>

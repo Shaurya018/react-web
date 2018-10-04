@@ -24,7 +24,7 @@ class Members extends Component {
             <figcaption>
                 <h2>Shivam</h2>
                 <p>Convenor</p>
-                <button>View</button>
+                
             </figcaption>
         </figure>
     </a>
@@ -35,7 +35,7 @@ class Members extends Component {
             <figcaption>
                 <h2>Akhil</h2>
                 <p>Treasurer</p>
-                <button>View</button>
+                
             </figcaption>
         </figure>
     </a>
@@ -46,7 +46,7 @@ class Members extends Component {
             <figcaption>
                 <h2>Ruchika</h2>
                 <p>Ex. Fest Coordinator</p>
-                <button>View</button>
+                
             </figcaption>
         </figure>
     </a>
@@ -57,7 +57,7 @@ class Members extends Component {
             <figcaption>
                 <h2>Aaryan</h2>
                 <p>Head, WDCT</p>
-                <button>View</button>
+                
             </figcaption>
         </figure>
     </a>
@@ -68,7 +68,7 @@ class Members extends Component {
             <figcaption>
                 <h2>Mayank</h2>
                 <p>General Secretary</p>
-                <button>View</button>
+                
             </figcaption>
         </figure>
     </a>
@@ -79,7 +79,7 @@ class Members extends Component {
             <figcaption>
                 <h2>Akshay</h2>
                 <p>Ex. Feat Coordinator</p>
-                <button>View</button>
+                
             </figcaption>
         </figure>
     </a>
@@ -90,7 +90,7 @@ class Members extends Component {
             <figcaption>
                 <h2>Abhishek</h2>
                 <p>Head, Corporate Communications</p>
-                <button>View</button>
+                
             </figcaption>
         </figure>
     </a>
@@ -101,7 +101,7 @@ class Members extends Component {
             <figcaption>
                 <h2>Vinesh</h2>
                 <p>Head, WDCT</p>
-                <button>View</button>
+                
             </figcaption>
         </figure>
     </a>
